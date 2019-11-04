@@ -165,7 +165,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
 #logo {
 	width: 220px;
 	height: 50px;
-	background: url('/static/styles/shiro/images/red-shiro.png') no-repeat center center;
+	background: url('https://raw.githubusercontent.com/trewsdy/abd/master/red.png') no-repeat center center;
 	margin: 5px auto 5px auto;
 }
 
