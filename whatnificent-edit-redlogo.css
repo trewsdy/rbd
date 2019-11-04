@@ -164,15 +164,15 @@ ul.thin li { margin:0px 0px; padding:0px; }
 
 #logo {
 	width: 677px;
-	height: 200px;
-	background: url('https://raw.githubusercontent.com/trewsdy/abd/master/red1.png') no-repeat top left;
+	height: 100px;
+	background: url('https://raw.githubusercontent.com/trewsdy/abd/master/redlgmid.png') no-repeat top left;
 	margin: 0 auto;
 }
 
 #logo a {
 	border: none;
 	width: 677px;
-	height: 200px;
+	height: 100px;
 	display: block;
 }
 
@@ -182,7 +182,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
 
 #menu {
 	position: absolute;
-	top: 226px;
+	top: 126px;
 	width: 100%;
 	padding: 0.6em 0;
 	text-align: center;
@@ -211,7 +211,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
 
 #userinfo {
 	position: absolute;
-	top: 258px;
+	top: 158px;
 	background: #efec82;
 	color: #444;
 	padding: 4px 0px;
@@ -252,7 +252,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
 
 #searchbars {
 	position: absolute;
-	top: 199px;
+	top: 99px;
 	width: 100%;
 	text-align: center;
 	background-color: #1a827e;
