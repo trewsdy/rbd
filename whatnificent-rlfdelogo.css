@@ -163,16 +163,16 @@ ul.thin li { margin:0px 0px; padding:0px; }
 }
 
 #logo {
-	width: 220px;
-	height: 50px;
-	background: url('https://raw.githubusercontent.com/trewsdy/abd/master/red.png') no-repeat center center;
-	margin: 5px auto 5px auto;
+	width: 677px;
+	height: 200px;
+	background: url('https://cdn.rawgit.com/lapigr/whatnificent/master/logo.png') no-repeat top left;
+	margin: 0 auto;
 }
 
 #logo a {
 	border: none;
-	width: 220px;
-	height: 55px;
+	width: 677px;
+	height: 200px;
 	display: block;
 }
 
